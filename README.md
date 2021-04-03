@@ -1,4 +1,4 @@
-Laravel jQuery Ajax Contact Form Package
+Laravel Database Backup Package
 ========================================
 
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/issues)
