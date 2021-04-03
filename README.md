@@ -12,3 +12,4 @@ If your Laravel project version is less than 5 then
 'providers' => [
     Codecheef\Backup\BackupServiceProvider::class,
 ],
+
