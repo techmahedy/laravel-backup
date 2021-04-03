@@ -1,3 +1,10 @@
+Laravel jQuery Ajax Contact Form Package
+========================================
+
+[![Issues](https://img.shields.io/github/issues/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/issues)
+[![Stars](https://img.shields.io/github/stars/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/stargazers)
+
+
 This package will take backup your mysql database automatically via cron job.
 
 ## Installing laravel-backup
