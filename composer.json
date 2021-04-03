@@ -1,0 +1,24 @@
+{
+    "name": "codecheef/backup",
+    "description": "This package will take backup you mysql database automatically via cron job.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "techmahedy",
+        "email": "mahedy150101@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codecheef\\Backup\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codecheef\\Backup\\BackupServiceProvider"
+            ]
+        }
+    }
+}
