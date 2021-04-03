@@ -1,4 +1,4 @@
-This package will take backup you mysql database automatically via cron job.
+This package will take backup your mysql database automatically via cron job.
 
 ## Installing laravel-backup
 
@@ -15,3 +15,24 @@ If your Laravel project version is less than 5 then
 
 ],
 
+To test this package create a 'database' directory inside your public folder.
+
+## Creating Directory
+
+    /public/database
+
+Then run below command to test it
+
+    php artisan backup:run
+
+## Setup Cron
+
+To run it via cron job do it inside your app/Console/Kernel.php
+
+ protected $commands = [
+
+    BackupCommand::class
+
+];
+
+and now call it via shceduller that when you want to run it, like daily weekly etc.
