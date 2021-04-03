@@ -10,6 +10,8 @@ If your Laravel project version is less than 5 then
 ## Add the service provider to `config/app.php`
 
 'providers' => [
+
     Codecheef\Backup\BackupServiceProvider::class,
+
 ],
 
