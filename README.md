@@ -1,10 +1,6 @@
 Laravel Database Backup Package
 ========================================
 
-[![Latest Version on Packagist][ico-version]][https://packagist.org/packages/codecheef/backup]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Total Downloads][ico-downloads]][link-downloads]
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/badges/quality-score.png?b=master)](https://github.com/techmahedy/laravel-backup/?branch=master)
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/issues)
 [![Stars](https://img.shields.io/github/stars/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/stargazers)
