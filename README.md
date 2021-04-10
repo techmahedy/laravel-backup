@@ -1,6 +1,11 @@
 Laravel Database Backup Package
 ========================================
 
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Software License][ico-license]](LICENSE.md)
+[![Build Status][ico-travis]][link-travis]
+[![Total Downloads][ico-downloads]][link-downloads]
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/badges/quality-score.png?b=master)](https://github.com/techmahedy/laravel-backup/?branch=master)
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/issues)
 [![Stars](https://img.shields.io/github/stars/techmahedy/laravel-backup.svg?style=flat-square)](https://github.com/techmahedy/laravel-backup/stargazers)
 
@@ -9,7 +14,7 @@ This package will take backup your mysql database automatically via cron job.
 
 ## Installing laravel-backup
 
-The recommended way to install contact-package using composer
+The recommended way to install laravel-backup package using composer
 
     composer require codecheef/backup
 
